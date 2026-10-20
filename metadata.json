@@ -1,0 +1,6 @@
+{
+  "name": "HospitalSee - Premier Multi-Speciality Hospital",
+  "description": "HospitalSee is a state-of-the-art multi-speciality hospital offering 24x7 emergency, world-class specialists, modern surgical facilities, OPD consultations, diagnostic checkups, and cashless TPA insurance care.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
